@@ -101,7 +101,7 @@ The following is the workflow employed in performing the necessary queries in Go
 
 
 #### 2. What is the average price of a home for each year the home was built that have 3 bedrooms and 3 bathrooms rounded to two decimal places?
-- | year | avg_price |
+| year | avg_price |
 |------|-----------|
 | 2010 | 292859.62 |
 | 2011 | 291117.47 |
@@ -114,7 +114,7 @@ The following is the workflow employed in performing the necessary queries in Go
 
 
 #### 3. What is the average price of a home for each year built that have 3 bedrooms, 3 bathrooms, with two floors, and are greater than or equal to 2,000 square feet rounded to two decimal places?
-- | year | avg_price |
+| year | avg_price |
 |------|-----------|
 | 2010 | 285010.22 |
 | 2011 | 276553.81 |
@@ -127,7 +127,7 @@ The following is the workflow employed in performing the necessary queries in Go
 
 
 #### 4.  What is the "view" rating for the average price of a home, rounded to two decimal places, where the homes are greater than or equal to $350,000? Although this is a small dataset, determine the run time for this query.
-- | avg_view |
+| avg_view |
 |----------|
 |    32.26 |
 
